@@ -1,0 +1,16 @@
+{
+  "name": "cassandra_fastify",
+  "version": "1.0.0",
+  "description": "This is a todo app using cassandra and fastify",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayush Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "cassandra-driver": "^4.6.3",
+    "fastify": "^4.1.0",
+    "fastify-typescript-generator": "^0.3.0"
+  }
+}
